@@ -1,2 +1,3 @@
 # SNA_part-2
-<mark>Marked text</mark>
+<code> <i><b>This text will be italic</b></i> this text will be bold </code>
+
